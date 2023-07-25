@@ -24,23 +24,23 @@ This repository contains the source code for a bidirectional voice translation m
 
 ## *Screeshots*
 
-+ Login Page<br>
++  ### Login Page<br>
   <img src="/images/login.jpg" alt="drawing" width="200"/>
 
-+ Signup Page<br>
++ ### Signup Page<br>
    <img src="/images/signup.jpg" alt="drawing" width="200"/>
 
-+ Home Page<br>
++ ### Home Page<br>
    <img src="/images/home.jpg" alt="drawing" width="200"/>
 
-+ Select Input Language<br>
++ ### Select Input Language<br>
    <img src="/images/input.jpg" alt="drawing" width="200"/>
 
-+ Searching an Language<br>
++ ### Searching an Language<br>
    <img src="/images/search.jpg" alt="drawing" width="200"/>
 
-+ Hold to record audio<br>
++ ### Hold to record audio<br>
    <img src="/images/hold.jpg" alt="drawing" width="200"/>
 
-+ Translation<br>
++ ### Translation<br>
    <img src="/images/translate.jpg" alt="drawing" width="200"/>
